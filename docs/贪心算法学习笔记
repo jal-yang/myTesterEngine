@@ -1,7 +1,7 @@
 # 贪心算法学习笔记
 ## 贪心算法是什么
 贪心算法是一种算法思想，适合的应用场景是问题有一个限制值，追求在限制值下问题的期望值达到最大或最小。背包问题就是贪心算法应用的经典案例，在限定值背包大小情况下追求期望值容纳物品价值达到最大。
-![avatar](https://github.com/jal-yang/myTesterEngine/blob/master/pictures/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/f93f4567168d3bc65688a785b76753c7.jpg)
+![avatar](https://github.com/jal-yang/myTesterEngine/blob/master/pictures/greedyAlgorithm/f93f4567168d3bc65688a785b76753c7.jpg)
 ## 如何理解贪心算法
 
 ##贪心算法怎么用
